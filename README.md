@@ -1,3 +1,3 @@
 # Audioplayer
 
-Audioplayer made with Java
+Audioplayer, made with Java
